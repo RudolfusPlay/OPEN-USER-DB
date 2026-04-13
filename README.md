@@ -3,6 +3,6 @@ EN: An open database of users who have VOLUNTARILY added their information for d
 
 RU: Открытая база данных пользователей, которые ДОБРОВОЛЬНО предоставили свои данные для знакомств и общения. Эту программу также можно использовать локально в качестве телефонной книги, списка сотрудников и т. д.
 
-Telegram — https://t.me/+dX3E4MWLJwA3Yjli
+Telegram — https://t.me/OPEN_USER_DB
 
 Discord — https://discord.gg/GPt6PfQhBm
