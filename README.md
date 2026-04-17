@@ -1,5 +1,5 @@
 # OPEN-USER-DB
-An open database of users who have VOLUNTARILY added their information for dating and socializing. You can also use this program locally as a phone book, employee list, etc.
+A new format social network (social features are coming soon). You can also use this program locally as a phone book, employee list, etc.
 
 Telegram — https://t.me/rudolfusplay_dev
 
